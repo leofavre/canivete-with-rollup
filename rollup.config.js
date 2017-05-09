@@ -3,10 +3,6 @@ import nodeResolve from "rollup-plugin-node-resolve";
 export default {
 	entry: "./index.js",
 	dest: "./dist/app.js",
-	plugins: [
-		nodeResolve({
-			jsnext: true
-		})
-	],
+	plugins: [nodeResolve()],
 	format: "es"
 };

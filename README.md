@@ -34,9 +34,7 @@ import nodeResolve from "rollup-plugin-node-resolve";
 export default {
 	entry: "./index.js",
 	dest: "./dist/app.js",
-	plugins: [
-		nodeResolve()
-	],
+	plugins: [nodeResolve()],
 	format: "es"
 };
 ```
@@ -46,8 +44,8 @@ export default {
 ```js
 import toAverage from "canivete/dist/toAverage";
 
-const myArray = [8, 10, 12, 14, 16];
-alert(myArray.reduce(toAverage));
+let myAverage = [8, 10, 12, 14, 16].reduce(toAverage);
+alert(myAverage);
 // => 12
 ```
 
