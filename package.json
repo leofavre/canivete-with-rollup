@@ -1,7 +1,7 @@
 {
   "name": "canivete-with-rollup",
   "version": "0.0.1",
-  "description": "Example of Canivete usage with Rollup.",
+  "description": "Example of Canivete use with Rollup.",
   "scripts": {
     "bundle": "rollup -c"
   },

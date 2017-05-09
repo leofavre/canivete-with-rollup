@@ -1,6 +1,6 @@
-# Canivete with Rollup and NPM scripts
+# Canivete with Rollup
 
-Example of Canivete usage with [Rollup](https://rollupjs.org/).
+Example of Canivete use with [Rollup](https://rollupjs.org/).
 
 1. In the Terminal, go to your project's root folder.
 
