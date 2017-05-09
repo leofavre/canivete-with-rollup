@@ -5,7 +5,7 @@ Example of Canivete usage with [Rollup](https://rollupjs.org/).
 1. In the Terminal, go to your project's root folder.
 
 ```shell
-$ cd your-project
+$ cd canivete-with-rollup
 ```
 
 2. Install Canivete via NPM.
