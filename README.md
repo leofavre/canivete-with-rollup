@@ -30,10 +30,10 @@ Create a file named "rollup.config.js" with the following content:
 import nodeResolve from "rollup-plugin-node-resolve";
 
 export default {
-	entry: "./index.js",
-	dest: "./dist/app.js",
-	plugins: [nodeResolve()],
-	format: "es"
+    entry: "./index.js",
+    dest: "./dist/app.js",
+    plugins: [nodeResolve()],
+    format: "es"
 };
 ```
 
