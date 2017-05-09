@@ -1,4 +1,4 @@
-### Using Canivete with [Rollup](https://rollupjs.org/)
+# Using Canivete with [Rollup](https://rollupjs.org/)
 
 In your project root folder, install Canivete via NPM.
 
