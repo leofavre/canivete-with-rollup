@@ -26,7 +26,7 @@ $ npm install --global rollup
 $ npm install --save-dev rollup-plugin-node-resolve
 ```
 
-5. Create a file named "rollup.config.js" in your project's root folder with the following content:
+5. Create a file named "rollup.config.js" in your project's root folder with the following contents:
 
 ```js
 import nodeResolve from "rollup-plugin-node-resolve";
