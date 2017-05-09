@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/leofavre/canivete-with-rollup.git"
   },
-  "author": "Leonardo Favre <contato@leofavre.com> (http://www.leofavre.com/)",
+  "author": "Leonardo Favre <leo@leofavre.com> (http://www.leofavre.com/)",
   "license": "Unlicense",
   "homepage": "https://github.com/leofavre/canivete-with-rollup#readme",
   "dependencies": {
