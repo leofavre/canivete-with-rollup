@@ -1,0 +1,21 @@
+{
+  "name": "canivete-with-rollup",
+  "version": "0.0.1",
+  "description": "Example of Canivete usage with Rollup.",
+  "scripts": {
+    "bundle": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leofavre/canivete-with-rollup.git"
+  },
+  "author": "Leonardo Favre <contato@leofavre.com> (http://www.leofavre.com/)",
+  "license": "Unlicense",
+  "homepage": "https://github.com/leofavre/canivete-with-rollup#readme",
+  "dependencies": {
+    "canivete": "github:leofavre/canivete"
+  },
+  "devDependencies": {
+    "rollup-plugin-node-resolve": "^3.0.0"
+  }
+}
