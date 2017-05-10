@@ -1,7 +1,7 @@
 {
   "name": "canivete-with-rollup",
   "version": "0.0.1",
-  "description": "Example of Canivete use with Rollup.",
+  "description": "Using Canivete with Rollup.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leofavre/canivete-with-rollup.git"
