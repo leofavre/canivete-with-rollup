@@ -1,6 +1,6 @@
 # Using Canivete with [Rollup](https://rollupjs.org/)
 
-**[Canivete on Github](https://github.com/leofavre/canivete/)**
+**[Canivete on GitHub](https://github.com/leofavre/canivete/)**
 
 **[Documentation](https://leofavre.github.io/canivete/)**
 
