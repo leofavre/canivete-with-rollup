@@ -2,7 +2,7 @@
 
 **[Canivete on GitHub](https://github.com/leofavre/canivete/)**
 
-**[Documentation](https://leofavre.github.io/canivete/)**
+**[Documentation](http://canivete.leofavre.com/)**
 
 ---
 
